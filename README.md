@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Rand01ph's github stats](https://github-readme-stats.vercel.app/api?username=rand01ph&show_icons=true&theme=dark)
 
 <!--
 **Rand01ph/Rand01ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
